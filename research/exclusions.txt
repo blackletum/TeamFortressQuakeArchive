@@ -1,0 +1,15 @@
+# false positives for wishlist
+
+# newfiles.zip
+http://cd.textfiles.com/sv/svplatinum/CDR35/NEWFILES.ZIP
+http://cd.textfiles.com/swextrav4/swextrav4-1/bbspcb15/newfiles.zip
+
+# tf1_2.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/TEXT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EMAIL/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/TEXT/EXPERT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/TEXT/ham-radio/tnc/tnc3/tf142.txt
+http://ftp.tu-clausthal.de/pub/ham-radio/tnc/tnc3/tf142.txt
