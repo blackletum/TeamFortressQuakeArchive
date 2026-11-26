@@ -24,7 +24,7 @@ Release Date | File | Description
 1996-10-28 | [tfeev1_0.zip](bin/tfeev1_0.zip)<br>[tf_maps.zip](bin/tf_maps.zip) | TeamFortress Entity Editor v1.0 and sample maps
 1996-10-31 | [tf1_3.zip](bin/tf1_3.zip) | TeamFortress v1.3
 1996-11-04 | ? | TeamFortress v1.31
-1996-11-10 | ? | TeamFortress v1.32
+1996-11-10 | [tf1_32.zip](bin/tf1_32.zip) | TeamFortress v1.32
 1996-11-11 | tf1_33.zip<br>v1_33pak.zip | TeamFortress v1.33
 1996-11-?? | (internal) | TeamFortress v1.34
 1996-11-30 | [v1_35pak.zip](bin/v1_35pak.zip)<br>[net1_35.zip](bin/net1_35.zip)<br>[coop1_35.zip](bin/coop1_35.zip)<br>[1_35nopr.zip](bin/1_35nopr.zip)<br>[v1_35src.zip](bin/v1_35src.zip) | TeamFortress v1.35

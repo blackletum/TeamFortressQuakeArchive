@@ -701,6 +701,12 @@ Bugs Removed:
 
 The filename for this release is not known.
 
+It was probably `tf1_32.zip`, to match the naming convention of prior and later releases.
+
+A copy was located here:
+
+* http://cluster.fys.ku.dk/quake/fortress.zip
+
 This version is mentioned on the TeamFortress news page:
 
 > 10/11/96\
@@ -762,7 +768,27 @@ Bugs Removed:
 
 -- README.TXT
 
-**A copy of this release has not yet been acquired for this archive.**
+Contents of `tf1_32.zip`.
+
+```text
+-rw-rw-r--  0 0      0     1462470 10 Nov  1996 PAK0.PAK
+-rw-rw-r--  0 0      0       31579 10 Nov  1996 README.TXT
+-rw-rw-r--  0 0      0       48599 10 Nov  1996 TFORTMAP.TXT
+drwxrwxr-x  0 0      0           0 11 Nov  1996 MAPS/
+-rw-rw-r--  0 0      0        4697 11 Nov  1996 CONFIG.CFG
+-rw-rw-r--  0 0      0      257856 27 Oct  1996 MAPS/DEATHX3.BSP
+-rw-rw-r--  0 0      0        2084 31 Oct  1996 MAPS/DEATHX3.TXT
+-rw-rw-r--  0 0      0      858752 24 Oct  1996 MAPS/2FORT23.BSP
+-rw-rw-r--  0 0      0        1845 31 Oct  1996 MAPS/2FORT23.TXT
+-rw-rw-r--  0 0      0      340164 22 Oct  1996 MAPS/FAST3.BSP
+-rw-rw-r--  0 0      0        1871 31 Oct  1996 MAPS/FAST3.TXT
+-rw-rw-r--  0 0      0      302612 22 Oct  1996 MAPS/STORM1.BSP
+-rw-rw-r--  0 0      0        1962 31 Oct  1996 MAPS/STORM1.TXT
+-rw-rw-r--  0 0      0      502616 22 Oct  1996 MAPS/HAVOC.BSP
+-rw-rw-r--  0 0      0        1715 31 Oct  1996 MAPS/HAVOC.TXT
+-rw-rw-r--  0 0      0      406048 22 Oct  1996 MAPS/SIEGE3.BSP
+-rw-rw-r--  0 0      0        1813 31 Oct  1996 MAPS/SIEGE3.TXT
+```
 
 ## v1.33
 
